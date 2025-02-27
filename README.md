@@ -1,4 +1,4 @@
 # College-demo
 This is my first git Repository
 <br>
-Author - Divyakshi
+Author - Divyakshi (College-demo)
